@@ -1,1 +1,1 @@
-import lorem
+from lorem import lorem
