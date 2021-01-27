@@ -1,1 +1,1 @@
-import module.lorem as lorem
+import modules.lorem as lorem
